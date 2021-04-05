@@ -1,5 +1,8 @@
 # How To Start: Rarible & NFTs
 
+### Author: Bull Will
+#### Editor: Rayne L.
+
 ____
 ### The main steps that we will take:
 
