@@ -11,7 +11,7 @@ ____
  6. Profit.
 
 
-## Step 1– [Getting Metamask](#getting-metamask) (Browser Extension)
+## Step 1– [Getting Metamask] (Browser Extension)
 
 Go to [Metamask.io](https://metamask.io/download.html) and download the Metamask extension for your browser.
 
