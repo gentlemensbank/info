@@ -149,7 +149,7 @@ To avoid waiting: high gas = fast confirmation.
 
 *Important: please do not try to adjust the gas fees yourself if you have no experience. Adjusting the amount after wallet calculation can lead to your transaction pending for longer than you expect. If you are too slow, you also run the risk it is not processed at all.*
 
- Hit "Confirm"
+Hit "Confirm"
 
 [picture]
 
@@ -181,6 +181,6 @@ You can track pending transactions with [Etherscan](https://etherscan.io).
 
 [picture]
 
-Congratulation! You win! 🎉🎉🎉✅
+Congratulations! You win! 🎉🎉🎉✅
 
 [picture]
