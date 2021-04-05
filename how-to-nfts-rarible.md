@@ -28,26 +28,28 @@ In this guide, we assume that you need a new wallet.
 
 Push the "I agree" button to agree to Metamasks terms of service.
 
+![terms of service](https://telegra.ph/file/fb1e03d1bff81dfc4930d.png)
+
 Then create a password. It will protect your wallet from people who may accidentally use your computer:
 
-![alt text](image.jpg)
+![creating password](https://telegra.ph/file/408c98ff17be6b360a70b.png)
 
 
 On the next page, click the area with a lock. There will be 12 words. **Store the words securely.** Anyone who knows those words will have access to your wallet. The safest way is to write them down on a piece of paper and hide them. 
 
 **I strongly recommend NOT storing this phrase in notes, in the mail, in cloud services.**
 
-![alt text](image.jpg)
+![seed phrase](https://telegra.ph/file/66467d0224da7784da899.png)
 
 On the next page, they will ask you to repeat your seed phrase. Just do it.
 
 Then you will see this window. Use the cross in the top right corner– to close it –we don't need it right now. (Metamask swap menu)
 
-![alt text](image.jpg)
+![swap intro](https://telegra.ph/file/c2d82d0c2dd5833c26185.png)
 
 So, congratulations, now you have an ETH wallet with Metamask extension. Now click on your address to copy it to your clipboard.
 
-![alt text](image.jpg)
+![new wallet](https://telegra.ph/file/6a4a9c40ee6aeacf9e93a.png)
 
 
 **(Below Account 1 on my screenshot)**
