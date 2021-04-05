@@ -3,7 +3,7 @@
 ____
 ### The main steps that we will take:
 
- 1. [Download the Metamask extension for your browser and create a new ETH wallet in Metamask.](#getting-metamask) 
+ 1. [Download the Metamask extension for your browser and create a new ETH wallet in Metamask.](##getting-metamask) 
  2. [Send ETH from your crypto exchange to your Metamask wallet.](#funding-metamask)
  3. [Connect your Metamask to rarible.com](#connecting-to-rarible)
  4. [How to create NFT and about GAS fees.](#create-nft-gas-fees)
