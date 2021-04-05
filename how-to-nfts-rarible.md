@@ -3,15 +3,15 @@
 ____
 ### The main steps that we will take:
 
- 1. [Download the Metamask extension for your browser and create a new ETH wallet in Metamask.](https://github.com/gentlemensbank/info/blob/main/how-to-nfts-rarible.md#getting-metamask) 
- 2. [Send ETH from your crypto exchange to your Metamask wallet.](https://github.com/gentlemensbank/info/blob/main/how-to-nfts-rarible.md#funding-metamask)
- 3. [Connect your Metamask to rarible.com](https://github.com/gentlemensbank/info/blob/main/how-to-nfts-rarible.md#connecting-to-rarible)
- 4. [How to create NFT and about GAS fees.](https://github.com/gentlemensbank/info/blob/main/how-to-nfts-rarible.md#create-nft-gas-fees)
+ 1. [Download the Metamask extension for your browser and create a new ETH wallet in Metamask.](#getting-metamask) 
+ 2. [Send ETH from your crypto exchange to your Metamask wallet.](#funding-metamask)
+ 3. [Connect your Metamask to rarible.com](#connecting-to-rarible)
+ 4. [How to create NFT and about GAS fees.](#create-nft-gas-fees)
  5. ????
  6. Profit.
 
 
-## Step 1– [Getting Metamask](#getting-metamask) (Browser Extension)
+## Step 1– [Getting Metamask](https://github.com/gentlemensbank/info/blob/main/how-to-nfts-rarible.md#getting-metamask) (Browser Extension)
 
 Go to [Metamask.io](https://metamask.io/download.html) and download the Metamask extension for your browser.
 
@@ -53,7 +53,7 @@ So, congratulations, now you have an ETH wallet with Metamask extension. Now cli
 **(Below Account 1 on my screenshot)**
 
 
-## Stage 2– [Send ETH to your Metamask wallet](#funding-metamask)
+## Stage 2– [Send ETH to your Metamask wallet](https://github.com/gentlemensbank/info/blob/main/how-to-nfts-rarible.md#funding-metamask)
 
 You need to send ETH from your crypto-exchange, exchanger or another wallet you own to your new address in Metamask. I'm unsure how you buy ETH. 
 
@@ -66,7 +66,7 @@ To fund your Metamask. You will send ETH to yourself– use the address that you
 Wait for the ETH to arrive. Transfers usually take anywhere from 3-10 minutes. Sending ETH varies depending on the load of the Ethereum network. And the gas price you selected when sending can drastically increase your wait time. (if you had an option)
 
 
-## Step 3– [Connect your Metamask to Rarible.com](#connecting-to-rarible)
+## Step 3– [Connect your Metamask to Rarible.com](https://github.com/gentlemensbank/info/blob/main/how-to-nfts-rarible.md#connecting-to-rarible)
 Now go to https://rarible.com/ and click to "Connect wallet" in the top right corner.
 
 [picture]
@@ -92,7 +92,7 @@ Click then checkbox's and then proceed.
 So, now you have an account on Rarible, and you're ready to mint your first NFT.
 
 
-## Step 4– [How to create NFT & the GAS fees](#create-nft-gas-fees)
+## Step 4– [How to create NFT & the GAS fees](https://github.com/gentlemensbank/info/blob/main/how-to-nfts-rarible.md#create-nft-gas-fees)
 
 Click the "Create" button on Rarible.com 
 
