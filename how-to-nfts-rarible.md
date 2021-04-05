@@ -3,10 +3,10 @@
 ____
 ### The main steps that we will take:
 
- 1. [Download the Metamask extension for your browser and create a new ETH wallet in Metamask.](https://github.com/gentlemensbank/info/blob/main/how-to-nfts-rarible.md#getting-metamask) 
- 2. [Send ETH from your crypto exchange to your Metamask wallet.](https://github.com/gentlemensbank/info/blob/main/how-to-nfts-rarible.md#funding-metamask)
- 3. [Connect your Metamask to rarible.com](https://github.com/gentlemensbank/info/blob/main/how-to-nfts-rarible.md#connecting-to-rarible)
- 4. [How to create NFT and about GAS fees.](https://github.com/gentlemensbank/info/blob/main/how-to-nfts-rarible.md#create-nft-gas-fees)
+ 1. [Download the Metamask extension for your browser and create a new ETH wallet in Metamask.](#https://github.com/gentlemensbank/info/blob/main/how-to-nfts-rarible.md#getting-metamask) 
+ 2. [Send ETH from your crypto exchange to your Metamask wallet.](#https://github.com/gentlemensbank/info/blob/main/how-to-nfts-rarible.md#funding-metamask)
+ 3. [Connect your Metamask to rarible.com](#https://github.com/gentlemensbank/info/blob/main/how-to-nfts-rarible.md#connecting-to-rarible)
+ 4. [How to create NFT and about GAS fees.](#https://github.com/gentlemensbank/info/blob/main/how-to-nfts-rarible.md#create-nft-gas-fees)
  5. ????
  6. Profit.
 
