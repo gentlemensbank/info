@@ -50,58 +50,58 @@ So, congratulations, now you have an ETH wallet with Metamask extension. Now cli
 
 <img src="https://telegra.ph/file/6a4a9c40ee6aeacf9e93a.png" alt="new-wallet" width="75%" height="50%">
 
+
 **(Below Account 1 on my screenshot)**
 
-
-## Stage 2– [Send ETH to your Metamask wallet](https://github.com/gentlemensbank/info/blob/main/how-to-nfts-rarible.md#funding-metamask)
+# Stage 2– Send ETH to your Metamask wallet
 
 You need to send ETH from your crypto-exchange, exchanger or another wallet you own to your new address in Metamask. I'm unsure how you buy ETH. 
 
->You can look at Google how to send ETH in the individual case.
+> **You can look at Google how to send ETH in the individual case.**
  
 To fund your Metamask. You will send ETH to yourself– use the address that you copied in the previous step. Double-check to make sure they are the same, and it was copied correctly by comparing the first and last characters. 
 
-> at least three characters from both sides of your address– not including 0x.
+> **at least three characters from both sides of your address– not including 0x.**
 
 Wait for the ETH to arrive. Transfers usually take anywhere from 3-10 minutes. Sending ETH varies depending on the load of the Ethereum network. And the gas price you selected when sending can drastically increase your wait time. (if you had an option)
 
 
-## Step 3– [Connect your Metamask to Rarible.com](https://github.com/gentlemensbank/info/blob/main/how-to-nfts-rarible.md#connecting-to-rarible)
+# Step 3– Connect your Metamask to Rarible.com
 Now go to https://rarible.com/ and click to "Connect wallet" in the top right corner.
 
-![alt text](image.jpg)
+[picture]
 
 Choose "Metamask"
 
 *If it's Metamask is not installed, go to the first step. Rarible does not display Metamask by default.*
 
-![alt text](image.jpg)
+[picture]
 
 Then you will see a Metamask pop-up window. Metamask is asking your permission to connect to Rarible.com. Click Next.
 
-![alt text](image.jpg)
+[picture]
 
 And one more time.
 
-![alt text](image.jpg)
+[picture]
 
 Click then checkbox's and then proceed.
 
-![alt text](image.jpg)
+[picture]
 
 So, now you have an account on Rarible, and you're ready to mint your first NFT.
 
 
-## Step 4– [How to create NFT & the GAS fees](https://github.com/gentlemensbank/info/blob/main/how-to-nfts-rarible.md#create-nft-gas-fees)
-
+# Step 4– How to create NFT & the GAS fees
 Click the "Create" button on Rarible.com 
 
 Then you will have a choice: 
-Single NFT – 1 copy (ERC-721) 
-Multiple NFTs– 1 or more (ERC-1155)
+- Single NFT – 1 copy (ERC-721) 
+- Multiple NFTs– 1 or more (ERC-1155)
+
 You can check the actual minting price here: https://raribleanalytics.com/
 
-![alt text](image.jpg)
+[picture]
 
 Then you will upload your file to IPFS.
 
@@ -117,34 +117,70 @@ Unlock once purchased– use it for additional content. Buyer exclusives etc.
 
 >For example, additional images with better resolution. Physical component or a video.
 
-![alt text](image.jpg)
+[picture]
 
 Scroll down.
 
-💰Royalties - how many percent you will be get from reselling your NFT. You will receive them on every resale. 
+💰Royalties = earnings from your NFTs selling on the secondary market. You will receive them on every resale on Rarible. It's percentage-based.
 
-Number of copies - It depends on you, you can put a low price and more copies, in my opinion this increases the likelihood of a purchase. This is especially important for new artists as a promotion method.
+The amount- depends on you. You can put a low price and more copies. In my opinion, this increases the likelihood of a purchase. 
 
-![alt text](image.jpg)
+**This is especially important for new artists as a promotion method.**
 
-Click the "Create" button. Metamask will offer you to sign the transaction for Approving your wallet. It's will be only once for ERC-721 and one time for ERC-1155 then you will be pay fee only for mint. There is a blue EDIT button above the amount. By clicking it, you will see options for sending a transaction. The speed of its confirmation depends on the amount of the fee. I usually choose Average or Fast (if I don't feel like waiting). Important: please do not try to set up the commission yourself if you have no experience. This can lead to the fact that your transaction will take a very long time or not be processed at all.
-Push to "Confirm".
+[picture]
 
-![alt text](image.jpg)
+Click the "Create" button. 
 
-So, when your transaction confirms you get notified.
+Metamask will prompt you to sign the transaction for 'Approving' your wallet. The approval transaction is a one-time fee– mandatory on the Ethereum network –this happens once per contract type. 
+
+It's known as– Set Approval For All.
+
+This transaction gives the Rarible contract permission to use your wallet to interact with minting contracts.
+
+ERC-721 & ERC-1155 are separate contracts, and both require this approval transaction. After approval, the only cost associated with creation is minting. 
+
+There is a blue EDIT button above the amount. (this allows the gas fee to be adjusted)
+
+After clicking it, you will see options for your transaction. The speed of its confirmation depends on the fee you choose at the time. I typically choose either Average or Fast. (your wallet calculates the cost for you)
+
+To avoid waiting: high gas = fast confirmation. 
+
+> **there is an expense to be the fastest.**
+
+*Important: please do not try to adjust the gas fees yourself if you have no experience. Adjusting the amount after wallet calculation can lead to your transaction pending for longer than you expect. If you are too slow, you also run the risk it is not processed at all.*
+
+ Hit "Confirm"
+
+[picture]
+
+When your transaction gets confirmed, you get notified.
+
+**note– do not navigate away from the page and wait until your previous transaction for 'Approval' is confirmed.**
 
 Push "Start" ✅
 
-![alt text](image.jpg)
+[picture]
 
-Now Metamask will be ask you about pay minting fee. If you don't like actual price, you can waiting. Just check https://raribleanalytics.com/ (you need ERC-721 mint price or ERC-1155 mint price, it depends on whether you are creating a single or multiple item.). You can use "Alert me by email" option.
+Now Metamask will present you the minting transaction, and you will get asked to pay the gas fee to call the 'mint function.'
 
-So, for the transaction fee it's same situation like and with approval wallet transaction - just click EDIT and choose what you want.
+If you don't like the current price to send transactions on Ethereum, you can wait. 
+
+To know the costs involved, check https://raribleanalytics.com/ 
+(you want the ERC-721 mint price or the ERC-1155 mint price– it depends on whether you are creating a single or multiple NFT.)
+
+You can use the "Alert me by email" option.
+
+So, for the transaction fee– for minting –it's the same situation as with an approval transaction. Click EDIT and choose the speed you want. 
+(keep in mind– don't use the cheapest option, unless you can wait)
+
 Then click to confirm.
 
-![alt text](image.jpg)
+You can track pending transactions with [Etherscan](https://etherscan.io).
 
-Congratulations! You win! 🎉🎉🎉✅
+*Do not send additional transactions until both the approval and the minting transaction get confirmed. Transactions get sent one after another, and they confirm in the same way.*
 
-![alt text](image.jpg)
+[picture]
+
+Congratulation! You win! 🎉🎉🎉✅
+
+[picture]
