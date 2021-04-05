@@ -1,15 +1,21 @@
-The main steps that we will take:
+# How To Start: Rarible & NFTs
 
- Download the Metamask extension for your browser and create a new ETH wallet in Metamask.
- Send ETH from your crypto exchange to your Metamask wallet.
- Connect your Metamask to rarible.com
- How to create NFT and about GAS fees.
- ????
- Profit.
+____
+<br>
+
+### The main steps that we will take:
+
+ 1. Download the Metamask extension for your browser and create a new ETH wallet in Metamask.
+ 2. Send ETH from your crypto exchange to your Metamask wallet.
+ 3. Connect your Metamask to rarible.com
+ 4. How to create NFT and about GAS fees.
+ 5. ????
+ 6. Profit.
 
 
-# Step 1– Getting Metamask (Browser Extension)
-Go to https://metamask.io/download.html and download the Metamask extension for your browser.
+## Step 1– [Getting Metamask](#download-the-metamask-extension) (Browser Extension)
+
+Go to [Metamask.io](https://metamask.io/download.html) and download the Metamask extension for your browser.
 
 [picture]
 
@@ -49,7 +55,7 @@ So, congratulations, now you have an ETH wallet with Metamask extension. Now cli
 **(Below Account 1 on my screenshot)**
 
 
-# Stage 2– Send ETH to your Metamask wallet
+## Stage 2– Send ETH to your Metamask wallet
 
 You need to send ETH from your crypto-exchange, exchanger or another wallet you own to your new address in Metamask. I'm unsure how you buy ETH. 
 
@@ -62,7 +68,7 @@ To fund your Metamask. You will send ETH to yourself– use the address that you
 Wait for the ETH to arrive. Transfers usually take anywhere from 3-10 minutes. Sending ETH varies depending on the load of the Ethereum network. And the gas price you selected when sending can drastically increase your wait time. (if you had an option)
 
 
-# Step 3– Connect your Metamask to Rarible.com
+## Step 3– Connect your Metamask to Rarible.com
 Now go to https://rarible.com/ and click to "Connect wallet" in the top right corner.
 
 [picture]
@@ -88,7 +94,7 @@ Click then checkbox's and then proceed.
 So, now you have an account on Rarible, and you're ready to mint your first NFT.
 
 
-# Step 4– How to create NFT & the GAS fees
+## Step 4– How to create NFT & the GAS fees
 Click the "Create" button on Rarible.com 
 
 Then you will have a choice: 
