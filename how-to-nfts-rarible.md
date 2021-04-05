@@ -18,13 +18,13 @@ ____
 
 Go to [Metamask.io](https://metamask.io/download.html) and download the Metamask extension for your browser.
 
-![supported browsers](https://telegra.ph/file/3671c75513ebe292a4f3e.png)
+<img src="https://telegra.ph/file/3671c75513ebe292a4f3e.png" alt="supported-browsers" width="75%" height="50%">
 
 Then you will need to choose an option. If you already an ETH wallet, you can import it via the seed phrase. If not– use "Create a wallet." 
 
 In this guide, we assume that you need a new wallet.
 
-<img src="https://telegra.ph/file/93add0fa7d162a8a513db.png" alt="new-to-metamask" width="100%" height="50%">
+<img src="https://telegra.ph/file/93add0fa7d162a8a513db.png" alt="new-to-metamask" width="75%" height="50%">
 
 Push the "I agree" button to agree to Metamasks terms of service.
 
@@ -38,18 +38,17 @@ On the next page, click the area with a lock. There will be 12 words. **Store th
 
 **I strongly recommend NOT storing this phrase in notes, in the mail, in cloud services.**
 
-![seed phrase](https://telegra.ph/file/66467d0224da7784da899.png)
+<img src="https://telegra.ph/file/66467d0224da7784da899.png" alt="seed-phrase" width="75%" height="50%">
 
 On the next page, they will ask you to repeat your seed phrase. Just do it.
 
 Then you will see this window. Use the cross in the top right corner– to close it –we don't need it right now. (Metamask swap menu)
 
-![swap intro](https://telegra.ph/file/c2d82d0c2dd5833c26185.png)
+<img src="https://telegra.ph/file/c2d82d0c2dd5833c26185.png" alt="swap-intro" width="50%" height="10%">
 
 So, congratulations, now you have an ETH wallet with Metamask extension. Now click on your address to copy it to your clipboard.
 
-![new wallet](https://telegra.ph/file/6a4a9c40ee6aeacf9e93a.png)
-
+<img src="https://telegra.ph/file/6a4a9c40ee6aeacf9e93a.png" alt="new-wallet" width="75%" height="50%">
 
 **(Below Account 1 on my screenshot)**
 
