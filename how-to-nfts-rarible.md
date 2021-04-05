@@ -1,11 +1,9 @@
 # How To Start: Rarible & NFTs
 
 ____
-<br>
-
 ### The main steps that we will take:
 
- 1. Download the Metamask extension for your browser and create a new ETH wallet in Metamask.
+ 1. [Download the Metamask extension for your browser and create a new ETH wallet in Metamask.](#getting-metamask) 
  2. Send ETH from your crypto exchange to your Metamask wallet.
  3. Connect your Metamask to rarible.com
  4. How to create NFT and about GAS fees.
@@ -13,7 +11,7 @@ ____
  6. Profit.
 
 
-## Step 1– [Getting Metamask](#download-the-metamask-extension) (Browser Extension)
+## Step 1– [Getting Metamask](#getting-metamask) (Browser Extension)
 
 Go to [Metamask.io](https://metamask.io/download.html) and download the Metamask extension for your browser.
 
