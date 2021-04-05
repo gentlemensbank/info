@@ -24,16 +24,18 @@ Then you will need to choose an option. If you already an ETH wallet, you can im
 
 In this guide, we assume that you need a new wallet.
 
-![new to metamask](https://telegra.ph/file/93add0fa7d162a8a513db.png)
+<img src="https://telegra.ph/file/93add0fa7d162a8a513db.png" alt="new-to-metamask" width="100%" height="50%">
+
+<img src="-" alt="-" width="100%" height="50%">
+
 
 Push the "I agree" button to agree to Metamasks terms of service.
 
-![terms of service](https://telegra.ph/file/fb1e03d1bff81dfc4930d.png)
+##### ![terms of service](https://telegra.ph/file/fb1e03d1bff81dfc4930d.png)
 
 Then create a password. It will protect your wallet from people who may accidentally use your computer:
 
-![creating password](https://telegra.ph/file/408c98ff17be6b360a70b.png)
-
+<img src="https://telegra.ph/file/408c98ff17be6b360a70b.png" alt="creating-password" width="100%" height="50%">
 
 On the next page, click the area with a lock. There will be 12 words. **Store the words securely.** Anyone who knows those words will have access to your wallet. The safest way is to write them down on a piece of paper and hide them. 
 
