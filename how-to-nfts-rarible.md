@@ -3,15 +3,15 @@
 ____
 ### The main steps that we will take:
 
- 1. [Download the Metamask extension for your browser and create a new ETH wallet in Metamask.](##getting-metamask) 
- 2. [Send ETH from your crypto exchange to your Metamask wallet.](#funding-metamask)
- 3. [Connect your Metamask to rarible.com](#connecting-to-rarible)
- 4. [How to create NFT and about GAS fees.](#create-nft-gas-fees)
+ 1. [Download the Metamask extension for your browser and create a new ETH wallet in Metamask.](https://github.com/gentlemensbank/info/blob/main/how-to-nfts-rarible.md#step-1-getting-metamask-browser-extension) 
+ 2. [Send ETH from your crypto exchange to your Metamask wallet.](https://github.com/gentlemensbank/info/blob/main/how-to-nfts-rarible.md#stage-2-send-eth-to-your-metamask-wallet)
+ 3. [Connect your Metamask to rarible.com](https://github.com/gentlemensbank/info/blob/main/how-to-nfts-rarible.md#step-3-connect-your-metamask-to-rariblecom)
+ 4. [How to create NFT and about GAS fees.](https://github.com/gentlemensbank/info/blob/main/how-to-nfts-rarible.md#step-4-how-to-create-nft--the-gas-fees)
  5. ????
  6. Profit.
 
 
-## Step 1– [Getting Metamask](https://github.com/gentlemensbank/info/blob/main/how-to-nfts-rarible.md#getting-metamask) (Browser Extension)
+## Step 1– Getting Metamask (Browser Extension)
 
 Go to [Metamask.io](https://metamask.io/download.html) and download the Metamask extension for your browser.
 
