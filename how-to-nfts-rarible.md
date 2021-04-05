@@ -145,6 +145,6 @@ Then click to confirm.
 
 ![alt text](image.jpg)
 
-Congratulation! You win! 🎉🎉🎉✅
+Congratulations! You win! 🎉🎉🎉✅
 
 ![alt text](image.jpg)
