@@ -13,47 +13,73 @@ ____
  5. ????
  6. Profit.
 
-
-## Step 1– Getting Metamask (Browser Extension)
+<h2 align="center">
+Step 1– Getting Metamask (Browser Extension)
+</h2>
 
 Go to [Metamask.io](https://metamask.io/download.html) and download the Metamask extension for your browser.
 
+<p align="center">
 <img src="https://telegra.ph/file/3671c75513ebe292a4f3e.png" alt="supported-browsers" width="75%" height="50%">
+</p>
 
+<p align="center">
 Then you will need to choose an option. If you already an ETH wallet, you can import it via the seed phrase. If not– use "Create a wallet." 
 
 In this guide, we assume that you need a new wallet.
+</p>
 
+<p align="center">
 <img src="https://telegra.ph/file/93add0fa7d162a8a513db.png" alt="new-to-metamask" width="75%" height="50%">
+</p>
 
+<h3 align="center">
 Push the "I agree" button to agree to Metamasks terms of service.
+</h3>
 
+<p align="center">
 <img src="https://telegra.ph/file/fb1e03d1bff81dfc4930d.png" alt="terms-of-service" width="50%" height="25%">
+</p>
 
+<p align="center">
 Then create a password. It will protect your wallet from people who may accidentally use your computer:
+</p>
 
+<p align="center">
 <img src="https://telegra.ph/file/408c98ff17be6b360a70b.png" alt="creating-password" width="50%" height="25%">
+</p>
 
+<p align="center">
 On the next page, click the area with a lock. There will be 12 words. **Store the words securely.** Anyone who knows those words will have access to your wallet. The safest way is to write them down on a piece of paper and hide them. 
 
 **I strongly recommend NOT storing this phrase in notes, in the mail, in cloud services.**
+</p>
 
+<p align="center">
 <img src="https://telegra.ph/file/66467d0224da7784da899.png" alt="seed-phrase" width="75%" height="50%">
+</p>
 
 On the next page, they will ask you to repeat your seed phrase. Just do it.
 
 Then you will see this window. Use the cross in the top right corner– to close it –we don't need it right now. (Metamask swap menu)
 
+<p align="center">
 <img src="https://telegra.ph/file/c2d82d0c2dd5833c26185.png" alt="swap-intro" width="50%" height="10%">
+</p>
 
+<h3 align="center">
 So, congratulations, now you have an ETH wallet with Metamask extension. Now click on your address to copy it to your clipboard.
+</h3>
 
+<p align="center">
 <img src="https://telegra.ph/file/6a4a9c40ee6aeacf9e93a.png" alt="new-wallet" width="75%" height="50%">
-
+</p>
 
 **(Below Account 1 on my screenshot)**
 
-# Stage 2– Send ETH to your Metamask wallet
+<h2 align="center">
+Stage 2– Send ETH to your Metamask wallet
+</h2>
 
 You need to send ETH from your crypto-exchange, exchanger or another wallet you own to your new address in Metamask. I'm unsure how you buy ETH. 
 
@@ -66,33 +92,48 @@ To fund your Metamask. You will send ETH to yourself– use the address that you
 Wait for the ETH to arrive. Transfers usually take anywhere from 3-10 minutes. Sending ETH varies depending on the load of the Ethereum network. And the gas price you selected when sending can drastically increase your wait time. (if you had an option)
 
 
-# Step 3– Connect your Metamask to Rarible.com
+<h2 align="center">
+Step 3– Connect your Metamask to Rarible.com
+</h2>
+
 Now go to https://rarible.com/ and click to "Connect wallet" in the top right corner.
 
-[picture]
+<p align="center">
+<img src="https://telegra.ph/file/7bce1048212c943991a37.png" alt="connecting wallet" width="75%" height="50%">
+</p>
 
 Choose "Metamask"
 
 *If it's Metamask is not installed, go to the first step. Rarible does not display Metamask by default.*
 
-[picture]
+<p align="center">
+<img src="https://telegra.ph/file/cd92396a2b30b5154e829.png" alt="choose metamask" width="50%" height="50%">
+</p>
 
 Then you will see a Metamask pop-up window. Metamask is asking your permission to connect to Rarible.com. Click Next.
 
-[picture]
+<p align="center">
+<img src="https://telegra.ph/file/578e52f4d20f464ccdc9c.png" alt="give permission" width="50%" height="50%">
+</p>
 
 And one more time.
 
-[picture]
+<p align="center">
+<img src="https://telegra.ph/file/4f5f4873d77b2898f1b65.png" alt="proceeding with connection" width="50%" height="50%">
+</p>
 
 Click then checkbox's and then proceed.
 
-[picture]
+<p align="center">
+<img src="https://telegra.ph/file/2bd0c84d1a4d488f7ec62.png" alt="you are connected" width="75%" height="50%">
+</p>
 
 So, now you have an account on Rarible, and you're ready to mint your first NFT.
 
+<h2 align="center">
+Step 4– How to create NFT & the GAS fees
+</h2>
 
-# Step 4– How to create NFT & the GAS fees
 Click the "Create" button on Rarible.com 
 
 Then you will have a choice: 
@@ -101,7 +142,9 @@ Then you will have a choice:
 
 You can check the actual minting price here: https://raribleanalytics.com/
 
-[picture]
+<p align="center">
+<img src="https://telegra.ph/file/82f0c215ad4d2e1dd9882.png" alt="creating nfts" width="75%" height="50%">
+</p>
 
 Then you will upload your file to IPFS.
 
@@ -117,7 +160,9 @@ Unlock once purchased– use it for additional content. Buyer exclusives etc.
 
 >For example, additional images with better resolution. Physical component or a video.
 
-[picture]
+<p align="center">
+<img src="https://telegra.ph/file/80c1853b15fd053553a9b.png" alt="nft details" width="75%" height="50%">
+</p>
 
 Scroll down.
 
@@ -127,7 +172,9 @@ The amount- depends on you. You can put a low price and more copies. In my opini
 
 **This is especially important for new artists as a promotion method.**
 
-[picture]
+<p align="center">
+<img src="https://telegra.ph/file/1377b927e78f2054fb297.png" alt="nft details 2" width="75%" height="50%">
+</p>
 
 Click the "Create" button. 
 
@@ -151,15 +198,21 @@ To avoid waiting: high gas = fast confirmation.
 
 Hit "Confirm"
 
-[picture]
+<p align="center">
+<img src="https://telegra.ph/file/a76d540540752961e5494.png" alt="confirming with wallet" width="75%" height="50%">
+</p>
 
+<p align"center">
 When your transaction gets confirmed, you get notified.
 
 **note– do not navigate away from the page and wait until your previous transaction for 'Approval' is confirmed.**
 
 Push "Start" ✅
+</p>
 
-[picture]
+<p align="center">
+<img src="https://telegra.ph/file/b6c67296658d4a1687e01.png" alt="press start to mint" width="75%" height="50%">
+</p>
 
 Now Metamask will present you the minting transaction, and you will get asked to pay the gas fee to call the 'mint function.'
 
@@ -179,8 +232,14 @@ You can track pending transactions with [Etherscan](https://etherscan.io).
 
 *Do not send additional transactions until both the approval and the minting transaction get confirmed. Transactions get sent one after another, and they confirm in the same way.*
 
-[picture]
+<p align="center">
+<img src="https://telegra.ph/file/44d81cbbba4ede753585c.png" alt="confirming in metamask" width="75%" height="50%">
+</p>
 
+<h3 align="center">
 Congratulations! You win! 🎉🎉🎉✅
+</h3>
 
-[picture]
+<p align="center">
+<img src="https://telegra.ph/file/be678b85610387523872d.png" alt="you are done" width="75%" height="50%">
+</p>
