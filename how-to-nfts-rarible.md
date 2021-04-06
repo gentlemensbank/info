@@ -13,9 +13,7 @@ ____
  5. ????
  6. Profit.
 
-<h2 align="center">
-Step 1– Getting Metamask (Browser Extension)
-</h2>
+## Step 1– Getting Metamask (Browser Extension)
 
 Go to [Metamask.io](https://metamask.io/download.html) and download the Metamask extension for your browser.
 
@@ -23,19 +21,20 @@ Go to [Metamask.io](https://metamask.io/download.html) and download the Metamask
 <img src="https://telegra.ph/file/3671c75513ebe292a4f3e.png" alt="supported-browsers" width="75%" height="50%">
 </p>
 
-<p align="center">
-Then you will need to choose an option. If you already an ETH wallet, you can import it via the seed phrase. If not– use "Create a wallet." 
+Then you will need to choose an option. If you already an ETH wallet, you can import it via the seed phrase. 
+
+**If not– use "Create a wallet."** 
 
 In this guide, we assume that you need a new wallet.
-</p>
+
 
 <p align="center">
 <img src="https://telegra.ph/file/93add0fa7d162a8a513db.png" alt="new-to-metamask" width="75%" height="50%">
 </p>
 
-<h3 align="center">
+<h4 align="center">
 Push the "I agree" button to agree to Metamasks terms of service.
-</h3>
+</h4>
 
 <p align="center">
 <img src="https://telegra.ph/file/fb1e03d1bff81dfc4930d.png" alt="terms-of-service" width="50%" height="25%">
@@ -49,11 +48,9 @@ Then create a password. It will protect your wallet from people who may accident
 <img src="https://telegra.ph/file/408c98ff17be6b360a70b.png" alt="creating-password" width="50%" height="25%">
 </p>
 
-<p align="center">
 On the next page, click the area with a lock. There will be 12 words. **Store the words securely.** Anyone who knows those words will have access to your wallet. The safest way is to write them down on a piece of paper and hide them. 
 
 **I strongly recommend NOT storing this phrase in notes, in the mail, in cloud services.**
-</p>
 
 <p align="center">
 <img src="https://telegra.ph/file/66467d0224da7784da899.png" alt="seed-phrase" width="75%" height="50%">
@@ -83,7 +80,7 @@ Stage 2– Send ETH to your Metamask wallet
 
 You need to send ETH from your crypto-exchange, exchanger or another wallet you own to your new address in Metamask. I'm unsure how you buy ETH. 
 
-> **You can look at Google how to send ETH in the individual case.**
+> **You can look at Google how to send ETH in the individual case.**=
  
 To fund your Metamask. You will send ETH to yourself– use the address that you copied in the previous step. Double-check to make sure they are the same, and it was copied correctly by comparing the first and last characters. 
 
@@ -92,9 +89,8 @@ To fund your Metamask. You will send ETH to yourself– use the address that you
 Wait for the ETH to arrive. Transfers usually take anywhere from 3-10 minutes. Sending ETH varies depending on the load of the Ethereum network. And the gas price you selected when sending can drastically increase your wait time. (if you had an option)
 
 
-<h2 align="center">
-Step 3– Connect your Metamask to Rarible.com
-</h2>
+## Step 3– Connect your Metamask to Rarible.com
+
 
 Now go to https://rarible.com/ and click to "Connect wallet" in the top right corner.
 
@@ -130,9 +126,8 @@ Click then checkbox's and then proceed.
 
 So, now you have an account on Rarible, and you're ready to mint your first NFT.
 
-<h2 align="center">
-Step 4– How to create NFT & the GAS fees
-</h2>
+
+## Step 4– How to create NFT & the GAS fees
 
 Click the "Create" button on Rarible.com 
 
@@ -148,7 +143,7 @@ You can check the actual minting price here: https://raribleanalytics.com/
 
 Then you will upload your file to IPFS.
 
-**Important thing: if you upload the video, you will see one more upload area below. This area is for the cover.  If you leave it empty, your preview will be static. For a dynamic preview, you need to upload a gif file.**
+**Important: if you upload the video, you will see one more upload area below. This area is for the cover.  If you leave it empty, your preview will be static. For a dynamic preview, you need to upload a gif file.**
 
 Put on sale– if you want to mint now, but put it on sale later– switch it off. 
 
