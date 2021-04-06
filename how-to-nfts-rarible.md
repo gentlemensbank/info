@@ -67,7 +67,7 @@ Now click on your address to copy it to your clipboard.
 
 You need to send ETH from your crypto-exchange, exchanger or another wallet you own to your new address in Metamask. I'm unsure how you buy ETH. 
 
-> **You can look at Google how to send ETH in the individual case.**=
+> **You can look at Google how to send ETH in the individual case.**
  
 To fund your Metamask. You will send ETH to yourself– use the address that you copied in the previous step. Double-check to make sure they are the same, and it was copied correctly by comparing the first and last characters. 
 
