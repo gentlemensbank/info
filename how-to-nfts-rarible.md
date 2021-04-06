@@ -64,19 +64,19 @@ Then you will see this window. Use the cross in the top right corner– to close
 <img src="https://telegra.ph/file/c2d82d0c2dd5833c26185.png" alt="swap-intro" width="50%" height="10%">
 </p>
 
-<h3 align="center">
-So, congratulations, now you have an ETH wallet with Metamask extension. Now click on your address to copy it to your clipboard.
-</h3>
+<p align="center">
+So, congratulations, now you have an ETH wallet with Metamask extension. 
+Now click on your address to copy it to your clipboard.
+</p>
 
 <p align="center">
 <img src="https://telegra.ph/file/6a4a9c40ee6aeacf9e93a.png" alt="new-wallet" width="75%" height="50%">
 </p>
 
+
 **(Below Account 1 on my screenshot)**
 
-<h2 align="center">
-Stage 2– Send ETH to your Metamask wallet
-</h2>
+## Stage 2– Send ETH to your Metamask wallet
 
 You need to send ETH from your crypto-exchange, exchanger or another wallet you own to your new address in Metamask. I'm unsure how you buy ETH. 
 
@@ -106,19 +106,25 @@ Choose "Metamask"
 <img src="https://telegra.ph/file/cd92396a2b30b5154e829.png" alt="choose metamask" width="50%" height="50%">
 </p>
 
+<p align="center">
 Then you will see a Metamask pop-up window. Metamask is asking your permission to connect to Rarible.com. Click Next.
+</p>
 
 <p align="center">
 <img src="https://telegra.ph/file/578e52f4d20f464ccdc9c.png" alt="give permission" width="50%" height="50%">
 </p>
 
+<p align="center">
 And one more time.
+</p>
 
 <p align="center">
 <img src="https://telegra.ph/file/4f5f4873d77b2898f1b65.png" alt="proceeding with connection" width="50%" height="50%">
 </p>
 
+<p align="center">
 Click then checkbox's and then proceed.
+</p>
 
 <p align="center">
 <img src="https://telegra.ph/file/2bd0c84d1a4d488f7ec62.png" alt="you are connected" width="75%" height="50%">
